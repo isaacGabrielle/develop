@@ -1,9 +1,4 @@
 
-
-
-
-
-
 function aboutMe(){
     location.href="aboutMe.html";
 }
